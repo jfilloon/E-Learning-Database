@@ -1,6 +1,5 @@
 # Data Requirements 
-## Overview
-The system is designed to support an e-learning platform that manages users, course content, and student performance. The database must store and organize data related to students, instructors, courses, assignments, and academic activity.
+
 ## Features 
 - Track Student Enrollment
 - Track Course Participation
@@ -76,3 +75,12 @@ The system is designed to support an e-learning platform that manages users, cou
 - cid
 - cdate
 - attstatus
+
+-----------
+
+
+
+
+
+
+
